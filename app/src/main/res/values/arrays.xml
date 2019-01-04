@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="major">
+        <item>멀티미디어</item>
+        <item>임베디스시스템</item>
+        <item>통신</item>
+        <item>컴퓨터</item>
+        <item>컴퓨터소프트웨어</item>
+        <item>전자</item>
+        <item>전자제어</item>
+
+    </string-array>
+
+    <string-array name="year">
+        <item>2018년도</item>
+        <item>2019년도</item>
+        <item>2020년도</item>
+    </string-array>
+
+    <string-array name="term">
+        <item>1학기</item>
+        <item>여름학기</item>
+        <item>2학기</item>
+        <item>겨울학기</item>
+    </string-array>
+
+    <string-array name="universityArea">
+        <item>교양</item>
+        <item>전공</item>
+    </string-array>
+
+    <string-array name="graduateArea">
+        <item>교육학공통</item>
+        <item>선수</item>
+        <item>전공</item>
+    </string-array>
+</resources>
